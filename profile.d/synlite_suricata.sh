@@ -16,9 +16,9 @@
 #------------------------------------------------------------------------------
 
 # Synesis Lite for Suricata global configuration
-export SYNLITE_SURICATA_DICT_PATH=/etc/logstash/synlite_suricata/dictionaries
-export SYNLITE_SURICATA_TEMPLATE_PATH=/etc/logstash/synlite_suricata/templates
-export SYNLITE_SURICATA_GEOIP_DB_PATH=/etc/logstash/synlite_suricata/geoipdbs
+export SYNLITE_SURICATA_DICT_PATH=/Users/satiesharma/projects/logstash/logstash-6.2.3/synlite_suricata/dictionaries
+export SYNLITE_SURICATA_TEMPLATE_PATH=/Users/satiesharma/projects/logstash/logstash-6.2.3/synlite_suricata/templates
+export SYNLITE_SURICATA_GEOIP_DB_PATH=/Users/satiesharma/projects/logstash/logstash-6.2.3/synlite_suricata/geoipdbs
 export SYNLITE_SURICATA_GEOIP_CACHE_SIZE=8192
 export SYNLITE_SURICATA_GEOIP_LOOKUP=true
 export SYNLITE_SURICATA_ASN_LOOKUP=true
